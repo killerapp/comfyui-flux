@@ -35,6 +35,12 @@ Here's an example of how your ComfyUI workflow should look:
 
 This image shows the correct way to wire the nodes in ComfyUI for the Flux.1 workflow. 🔌
 
+## GitHub Social Banner 🖼️
+
+The default template in this workflow is great for creating GitHub Social banners. The default size (1280x640) is perfect for this purpose. These images should work as long as they are less than one megabyte, which is often the case with the output from this workflow.
+
+TODO: Find a way to compress the output images further to ensure they are always below 1MB.
+
 ## Acknowledgements 🙏
 
 Special thanks to [Aitrepreneur](https://www.youtube.com/@Aitrepreneur) on YouTube for their helpful video on setting up Automatic1111. Their tutorial, ["How to Install Stable Diffusion on Windows for FREE"](https://www.youtube.com/watch?v=stOiAuyVnyQ), was instrumental in getting started with AI image generation tools.
