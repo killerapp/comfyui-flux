@@ -1,13 +1,14 @@
 # ComfyUI and Flux.1 🖼️🚀
 
-This guide will help you get up and running with Flux.1 in ComfyUI.
+This guide will help you get up and running with [Flux.1](https://blackforestlabs.ai/) in [ComfyUI](https://github.com/comfyanonymous/ComfyUI).
 
 ## Getting Started 🏁
 
-1. Install ComfyUI following the instructions for your operating system.
-2. Download the required model files and place them in the correct directories.
-3. Load the included workflow file in ComfyUI.
-4. Select the appropriate models in the workflow.
+1. Install [ComfyUI](https://github.com/comfyanonymous/ComfyUI) following the instructions for your operating system.
+2. Download the required model files and place them in the correct directories (see below).
+3. Launch ComfyUI.
+4. Load the included workflow file in ComfyUI.
+5. Enter your prompt in the designated text input node.
 
 ## Required Model Files 📁
 
@@ -24,9 +25,9 @@ Download [ae.safetensors](https://huggingface.co/black-forest-labs/FLUX.1-schnel
 
 ## Setting Up the Workflow 🛠️
 
-1. Launch ComfyUI
-2. Load the included workflow file
-3. Select the appropriate models in the workflow nodes
+1. In ComfyUI, load the included workflow file.
+2. Select the appropriate models in the workflow nodes.
+3. Enter your desired prompt in the text input node.
 
 Here's an example of how your ComfyUI workflow should look:
 
