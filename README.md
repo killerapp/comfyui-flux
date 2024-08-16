@@ -2,6 +2,12 @@
 
 This guide will help you get up and running with [Flux.1](https://blackforestlabs.ai/) in [ComfyUI](https://github.com/comfyanonymous/ComfyUI).
 
+## GitHub Social Banner 🖼️
+
+The default template in this workflow is great for creating GitHub Social banners. The default size (1280x640) is perfect for this purpose. These images should work as long as they are less than one megabyte, which is often the case with the output from this workflow.
+
+TODO: Find a way to compress the output images further to ensure they are always below 1MB.
+
 ## Getting Started 🏁
 
 1. Install [ComfyUI](https://github.com/comfyanonymous/ComfyUI) following the instructions for your operating system.
@@ -34,12 +40,6 @@ Here's an example of how your ComfyUI workflow should look:
 ![ComfyUI Workflow Example](img/comfy-screen.png)
 
 This image shows the correct way to wire the nodes in ComfyUI for the Flux.1 workflow. 🔌
-
-## GitHub Social Banner 🖼️
-
-The default template in this workflow is great for creating GitHub Social banners. The default size (1280x640) is perfect for this purpose. These images should work as long as they are less than one megabyte, which is often the case with the output from this workflow.
-
-TODO: Find a way to compress the output images further to ensure they are always below 1MB.
 
 ## Acknowledgements 🙏
 
