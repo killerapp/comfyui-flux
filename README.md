@@ -34,3 +34,7 @@ Here's an example of how your ComfyUI workflow should look:
 ![ComfyUI Workflow Example](img/comfy-screen.png)
 
 This image shows the correct way to wire the nodes in ComfyUI for the Flux.1 workflow. 🔌
+
+## Acknowledgements 🙏
+
+Special thanks to [Aitrepreneur](https://www.youtube.com/@Aitrepreneur) on YouTube for their helpful video on setting up Automatic1111. Their tutorial, ["How to Install Stable Diffusion on Windows for FREE"](https://www.youtube.com/watch?v=stOiAuyVnyQ), was instrumental in getting started with AI image generation tools.
